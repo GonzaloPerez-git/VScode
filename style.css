@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://code.visualstudio.com/assets/branding/code-stable.png");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: 650px 150px;
+}
+#txt1{
+    font-family: comic sans ms;
+    font-size: 50px;
+}
+#txt2{
+    font-family: comic sans ms;
+    font-size: 30px;
+}
+#txt3{
+    font-family: comic sans ms;
+    font-size: 20px;
+    background-position: center 100px;
+}
+#img1{
+    width: 200px;
+    display: block;
+}
+#txt4{
+    font-family: comic sans ms;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 900px;
+    position: relative;
+    top: -150px;
+}
+#txt5{
+    font-family: comic sans ms;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 900px;
+    position: relative;
+    top: -150px;
+}
+#txt6{
+    font-family: comic sans ms;
+    font-size: 20px;
+    margin: 0 auto;
+    width: 900px;
+    position: relative;
+    top: -180px;
+    right: -437px;
+    size: 20px;
+}
